@@ -1,2 +1,2 @@
 # index.php
-test file
+<?php echo "hello world 14"?>
